@@ -1,9 +1,5 @@
-<div style="text-align: center;">
-
 ## 分散式系統
 ### Lab: Networking
-
-</div>
 
 請務必填寫學號系級姓名，以免成績登錄錯誤。
 
