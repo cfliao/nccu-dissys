@@ -1,6 +1,6 @@
 ![This is an image](./nccu.jpg "This is an image") 
 
-## 分散式系統 Lab 1: Networking {align=center}
+## 分散式系統 Lab 1: Networking 
 
 請務必填寫學號系級姓名，以免成績登錄錯誤。
 
