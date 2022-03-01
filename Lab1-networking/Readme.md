@@ -1,5 +1,3 @@
-<!-- ![This is an image](./nccu.jpg "This is an image") --> 
-
 ## 分散式系統 Lab 1: Networking 
 
 請務必填寫學號系級姓名，以免成績登錄錯誤。
@@ -60,5 +58,5 @@
  ```
 答: (在此加入您的回答)
 ```
-
+<!-- ![這是一個加入圖檔的語法範例](./nccu.jpg "This is an image") -->
 
