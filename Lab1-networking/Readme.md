@@ -16,8 +16,9 @@
   - 傾聽本地端(127.0.0.1)的port 20213，接收Client傳來的訊息 
   - 在console中印出所接收到的訊息 
   - 將收到的訊息的最前面加上「XXXX:」再送回給Client，其中，XXXX是Client的port number。
-    (client的port number請由node.js的API取得: https://nodejs.org/docs/latest/api/dgram.html#dgram_event_message) 
-> 提示: 使用server.send方法要嵌入在on message的call back function中，才會在收到訊息之後執行。 
+> 提示: client的port number請由node.js的API取得: https://nodejs.org/docs/latest/api/dgram.html#dgram_event_message 
+
+> 提示: 使用server.send方法要嵌入在on message的call back function中，程式才會在收到訊息之後執行。 
   - 印出後立即關閉連線(提示: server.close方法要嵌入在server.send方法中)
 
 3. Client的需求:
