@@ -1,5 +1,8 @@
-![This is an image](./nccu.jpg "This is an image")
-## 分散式系統 Lab 1: Networking
+ ||
+ |:--:|
+ | ![This is an image](./nccu.jpg "This is an image") |
+
+## 分散式系統 Lab 1: Networking {align=center}
 
 請務必填寫學號系級姓名，以免成績登錄錯誤。
 
@@ -30,16 +33,18 @@
   - 收到後關閉連線
 
 請將Server的程式碼則在下面:
-```
+
+``
 答:
 (在此加入您的程式碼)
-```
+``
+
 請將Client的程式碼貼在下面:
  
-```
+``
 答: 
 (在此加入您的程式碼)
-```
+``
 
 #### 第二部份 群播 
 
