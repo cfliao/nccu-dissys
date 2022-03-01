@@ -1,4 +1,4 @@
-![This is an image](./nccu.jpg "This is an image") 
+<!-- ![This is an image](./nccu.jpg "This is an image") --> 
 
 ## 分散式系統 Lab 1: Networking 
 
